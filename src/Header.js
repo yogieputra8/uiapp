@@ -5,7 +5,8 @@ import { View, Text } from 'react-native'
 
 export default class Header extends Component {
     state = {
-        namaku: 'JOKO'
+        namaku: 'JOKO',
+        umur: 23
     }
 
 
